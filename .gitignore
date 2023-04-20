@@ -6,3 +6,4 @@ MNIST
 apikey.py
 .DS_Store
 .tar
+.pt
