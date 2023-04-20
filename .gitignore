@@ -1,0 +1,8 @@
+__pycache__
+.data
+.ipynb_checkpoints
+data
+MNIST
+apikey.py
+.DS_Store
+.tar
