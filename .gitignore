@@ -5,5 +5,7 @@ data
 MNIST
 apikey.py
 .DS_Store
-.tar
-.pt
+*.path.tar
+*.tar
+*.pt
+*.pth
