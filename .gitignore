@@ -9,3 +9,5 @@ apikey.py
 *.tar
 *.pt
 *.pth
+*.zip
+*.csv.zip
